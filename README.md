@@ -25,7 +25,7 @@
 *Приведите ответ в свободной форме.*  
 
 - Какие сетевые службы в ней разрешены?
-``
+
 	PORT     STATE SERVICE     VERSION
 	21/tcp   open  ftp         vsftpd 2.3.4
 	22/tcp   open  ssh         OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0)
@@ -49,7 +49,7 @@
 	6000/tcp open  X11         (access denied)
 	6667/tcp open  irc         UnrealIRCd
 	8009/tcp open  ajp13       Apache Jserv (Protocol v1.3)
-	8180/tcp open  http        Apache Tomcat/Coyote JSP engine 1.1``
+	8180/tcp open  http        Apache Tomcat/Coyote JSP engine 1.1
 
 
 - Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
