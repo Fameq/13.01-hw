@@ -25,6 +25,7 @@
 *Приведите ответ в свободной форме.*  
 
 Какие сетевые службы в ней разрешены?
+
 ----------------|----------------------|----------------------|----------------------
 PORT    	| STATE 	       |SERVICE               | VERSION
 21/tcp   	|open  	               |ftp                   | vsftpd 2.3.4
@@ -52,11 +53,11 @@ PORT    	| STATE 	       |SERVICE               | VERSION
 8180/tcp 	|open                  |http                  |Apache Tomcat/Coyote JSP engine 1.1
 
 
-- Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
+Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
-	https://www.exploit-db.com/exploits/49757
-	https://www.exploit-db.com/exploits/49908
-	https://www.exploit-db.com/exploits/46813
+https://www.exploit-db.com/exploits/49757
+https://www.exploit-db.com/exploits/49908
+https://www.exploit-db.com/exploits/46813
 	
 
 
