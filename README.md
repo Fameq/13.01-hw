@@ -58,9 +58,9 @@ PORT    	| STATE 	       |SERVICE               | VERSION
 
 Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
  
-| https://www.exploit-db.com/exploits/49757 |
-| https://www.exploit-db.com/exploits/49908 |
-| https://www.exploit-db.com/exploits/46813 |
+* https://www.exploit-db.com/exploits/49757 
+* https://www.exploit-db.com/exploits/49908 
+* https://www.exploit-db.com/exploits/46813 
 	
 
 
