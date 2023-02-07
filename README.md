@@ -53,19 +53,14 @@ PORT    	| STATE 	       |SERVICE               | VERSION
 8009/tcp 	|open                  |ajp13                 | Apache Jserv (Protocol v1.3)
 8180/tcp 	|open                  |http                  |Apache Tomcat/Coyote JSP engine 1.1
 
-| PORT | STATE | SERVICE | VERSION |
-| --- | --- | --- | --- |
-| 21/tcp | open | ftp | vsftpd 2.3.4 |
-| 22/tcp | open | ftp | OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0) |
-| 23/tcp | open | ftp | Linux telnetd |
-| 25/tcp | open | ftp | Postfix smtpd |
+
 
 
 Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
-
-https://www.exploit-db.com/exploits/49757
-https://www.exploit-db.com/exploits/49908
-https://www.exploit-db.com/exploits/46813
+ 
+| https://www.exploit-db.com/exploits/49757 |
+| https://www.exploit-db.com/exploits/49908 |
+| https://www.exploit-db.com/exploits/46813 |
 	
 
 
