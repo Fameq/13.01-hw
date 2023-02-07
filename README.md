@@ -26,8 +26,9 @@
 
 Какие сетевые службы в ней разрешены?
 
-----------------|----------------------|----------------------|----------------------
+
 PORT    	| STATE 	       |SERVICE               | VERSION
+----------------|----------------------|----------------------|----------------------
 21/tcp   	|open  	               |ftp                   | vsftpd 2.3.4
 22/tcp   	|open  		       |ssh                   | OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0)
 23/tcp  	| open  	       |telnet                |   Linux telnetd
@@ -51,6 +52,13 @@ PORT    	| STATE 	       |SERVICE               | VERSION
 6667/tcp 	|open                  |irc                   | UnrealIRCd
 8009/tcp 	|open                  |ajp13                 | Apache Jserv (Protocol v1.3)
 8180/tcp 	|open                  |http                  |Apache Tomcat/Coyote JSP engine 1.1
+
+| PORT | STATE | SERVICE | VERSION |
+| --- | --- | --- | --- |
+| 21/tcp | open | ftp | vsftpd 2.3.4 |
+| 22/tcp | open | ftp | OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0) |
+| 23/tcp | open | ftp | Linux telnetd |
+| 25/tcp | open | ftp | Postfix smtpd |
 
 
 Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
